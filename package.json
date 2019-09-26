@@ -1,0 +1,12 @@
+{
+  "name": "iscale",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --username test10@bge.me --password passw0rd"
+  },
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
